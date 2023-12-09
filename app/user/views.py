@@ -36,4 +36,3 @@ class ManageUserView(generics.RetrieveUpdateAPIView):
 
 
 
-
