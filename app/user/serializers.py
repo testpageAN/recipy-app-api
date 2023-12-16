@@ -6,7 +6,7 @@ from django.contrib.auth import (
     authenticate,
 )
 # from django.utils.translation import ugettext as _  #  for Django 3
-from django.utils.translation import gettext as _  #  for Django 4
+from django.utils.translation import gettext as _  # for Django 4
 
 from rest_framework import serializers
 
